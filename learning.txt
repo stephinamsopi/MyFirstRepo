@@ -1,4 +1,4 @@
-What I Have Learned From This Course
+What I have learned from this course
 
 I have learned how to use Git and Github and how it is important to track process of projects with other collaborators.
 I have also learned that in collaboration projects we have a contribute to the same goal.
